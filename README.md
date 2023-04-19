@@ -5,15 +5,19 @@
 1. Get your LinkedIn URL
 
 
-![image Linkedin URL](https://raw.githubusercontent.com/statsRcool/qr/main/linkedin_url.png)
-
-<img src="https://raw.githubusercontent.com/statsRcool/qr/main/linkedin_url.png" align="left" height="100">
+<!-- ![image Linkedin URL](https://raw.githubusercontent.com/statsRcool/qr/main/linkedin_url.png)
+ -->
+ 
+<img src="https://raw.githubusercontent.com/statsRcool/qr/main/linkedin_url.png" align="left" height="200">
 
 
 2. Go to Google Colab
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_XV9Nvw1In43usLVGSVm11v1f3LInHR7#scrollTo=b3cR0s4g2Bzc&forceEdit=true&sandboxMode=true | height=50)
+<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_XV9Nvw1In43usLVGSVm11v1f3LInHR7#scrollTo=b3cR0s4g2Bzc&forceEdit=true&sandboxMode=true)
+ -->
+
+<a href="https://colab.research.google.com/drive/1_XV9Nvw1In43usLVGSVm11v1f3LInHR7#scrollTo=b3cR0s4g2Bzc&forceEdit=true&sandboxMode=true"><img src="https://colab.research.google.com/assets/colab-badge.svg" align="left" height="100"></a>
 
 
 3. Paste your LinkedIn handle in the form
