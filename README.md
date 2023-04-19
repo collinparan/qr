@@ -5,7 +5,9 @@
 1. Get your LinkedIn URL
 
 
-![image Linkedin URL](https://raw.githubusercontent.com/statsRcool/qr/main/linkedin_url.png | height=50)
+![image Linkedin URL](https://raw.githubusercontent.com/statsRcool/qr/main/linkedin_url.png)
+
+<img src="https://raw.githubusercontent.com/statsRcool/qr/main/linkedin_url.png" align="left" height="100">
 
 
 2. Go to Google Colab
