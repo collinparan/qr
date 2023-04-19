@@ -26,6 +26,12 @@
 ![image Linkedin URL](https://raw.githubusercontent.com/statsRcool/qr/main/instructions.png)
 
 
+5. Right-click and select "Save Image As"
+
+
+![image Linkedin URL](https://raw.githubusercontent.com/statsRcool/qr/main/save_qr_as.png)
+
+
 # Description
 
 Contact QR Generator for LinkedIn
