@@ -29,7 +29,7 @@
 
  -->
  
-<img src="https://raw.githubusercontent.com/statsRcool/qr/main/navigate_pasteurl.png" height="200">
+<img src="https://raw.githubusercontent.com/statsRcool/qr/main/navigate_pasteurl.png" height="300">
 
 
 4. Click "Run All"
@@ -37,7 +37,7 @@
 
 <!-- ![image Linkedin URL](https://raw.githubusercontent.com/statsRcool/qr/main/instructions.png) -->
 
-<img src="https://raw.githubusercontent.com/statsRcool/qr/main/instructions.png" height="200">
+<img src="https://raw.githubusercontent.com/statsRcool/qr/main/instructions.png" height="300">
 
 
 5. Right-click and select "Save Image As"
@@ -45,7 +45,7 @@
 
 <!-- ![image Linkedin URL](https://raw.githubusercontent.com/statsRcool/qr/main/save_qr_as.png) -->
 
-<img src="https://raw.githubusercontent.com/statsRcool/qr/main/save_qr_as.png" height="200">
+<img src="https://raw.githubusercontent.com/statsRcool/qr/main/save_qr_as.png" height="300">
 
 
 
